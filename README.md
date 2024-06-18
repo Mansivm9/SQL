@@ -8,7 +8,9 @@ Purposes Of The Project
 The major aim of this project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
 This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows
+
 --------------------------------------------------------------------------------
+
 # HR Analytics
 
 ## About
