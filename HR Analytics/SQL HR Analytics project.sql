@@ -1,4 +1,4 @@
---Mansi V Malvi							SQL PROJECT
+					SQL PROJECT
 
 create database project
 use project
